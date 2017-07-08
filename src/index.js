@@ -24,11 +24,12 @@ class WipeOut {
   }
 
   callback () {
-    console.log('done')
+    this.button.textContent = 'WIPED OUT'
+    this.button.style.backgroundColor = '#00BF6D'
   }
 
   clearBrowserHistory () {
-    chrome.browsingData.remove({ "since" : 0 }, this.options, this.callback)
+    chrome.browsingData.remove({ "since" : 0 }, this.options, this.callback.bind(this))
   }
 }
 
