@@ -1,9 +1,9 @@
 {
-  "manifest_version": 2,
-
+  "version": "1.0.0",
   "name": "Wipe Out",
-  "description": "Wipe your browser history clean",
-  "version": "1.0",
+  "description": "Wipe out your browsing history",
+  "author": "Jesstern Rays",
+  "homepage_url": "https://github.com/jsstrn/wipe-out-for-chrome",
 
   "browser_action": {
     "default_popup": "src/index.html",
@@ -12,5 +12,7 @@
 
   "permissions": [
     "browsingData"
-  ]
+  ],
+
+  "manifest_version": 2
 }
