@@ -1,0 +1,18 @@
+button {
+  width: 8rem;
+  height: 2rem;
+  border: none;
+  border-radius: 0.2rem;
+  color: white;
+  font-size: .8rem;
+  font-weight: bold;
+  background-color: #E52600;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:hover {
+  background-color: #BF2000;
+}
