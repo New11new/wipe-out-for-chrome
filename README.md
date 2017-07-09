@@ -6,6 +6,8 @@
 
 By default this extension will wipe out all your browsing data (including saved passwords) from the beginning of time.
 
+This extension will wipe out all your browsing data (including saved passwords).
+
 List of browsing data that will be wiped out:
 
 - app cache
