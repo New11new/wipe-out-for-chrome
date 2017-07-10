@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "Wipe Out",
-  "description": "Wipe out your browsing history",
+  "description": "🗑 A simple Chrome extension to clear all your browsing data",
   "author": "Jesstern Rays",
   "homepage_url": "https://github.com/jsstrn/wipe-out-for-chrome",
 
