@@ -1,5 +1,7 @@
 # Wipe Out
 
+![Screenshot of Chrome extension in use](screenshot.png)
+
 🗑 A simple Chrome extension to clear all your browsing data
 
 ## Introduction
